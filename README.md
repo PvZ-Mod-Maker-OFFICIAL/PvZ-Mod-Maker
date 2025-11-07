@@ -3,4 +3,4 @@
 
 ### Credits: UseR, the dude
 
-### Special thanks to SemiDen who worked on that project since the beginning, but sadly she left due to personal reasons.
+### Special thanks to SemiDen who created that project, but sadly she left due to personal reasons.
